@@ -37,13 +37,6 @@
   email: faizan@iitk.ac.in
   image: Faizan Siddiqui.JPG
 
-- name: Harsh Verma
-  facebook: verharsh?ref=br_rs
-  mob: 7269961514
-  add: A603/12
-  email: verharsh@iitk.ac.in
-  image: Harsh Verma.jpg
-
 - name: Inshu Namdev
   github: inshu1
   facebook: InshuND
@@ -84,11 +77,11 @@
   image: Neil_Shirude.jpg
 
 - name: Nitik Jain
-  github:
-  facebook:
-  mob:
-  add:
-  email:
+  github: nitik1998
+  facebook: nitik.jain.1
+  mob: 9001370974
+  add: C-229/2
+  email: nitik@iitk.ac.in
   image: Nitik Jain.jpg
 
 - name: Prateek Yadav

@@ -335,11 +335,11 @@
     opacity: 0;
     /*z-index: 0;*/
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 18s linear infinite 0s;
-    -moz-animation: imageAnimation 18s linear infinite 0s;
-    -o-animation: imageAnimation 18s linear infinite 0s;
-    -ms-animation: imageAnimation 18s linear infinite 0s;
-    animation: imageAnimation 18s linear infinite 0s;
+    -webkit-animation: imageAnimation 24s linear infinite 0s;
+    -moz-animation: imageAnimation 24s linear infinite 0s;
+    -o-animation: imageAnimation 24s linear infinite 0s;
+    -ms-animation: imageAnimation 24s linear infinite 0s;
+    animation: imageAnimation 24s linear infinite 0s;
 }
 .cb-slideshow li div {
     z-index: 100;
@@ -349,11 +349,11 @@
     width: 100%;
     text-align: center;
     opacity: 0;
-    -webkit-animation: titleAnimation 18s linear infinite 0s;
-    -moz-animation: titleAnimation 18s linear infinite 0s;
-    -o-animation: titleAnimation 18s linear infinite 0s;
-    -ms-animation: titleAnimation 18s linear infinite 0s;
-    animation: titleAnimation 18s linear infinite 0s;
+    -webkit-animation: titleAnimation 24s linear infinite 0s;
+    -moz-animation: titleAnimation 24s linear infinite 0s;
+    -o-animation: titleAnimation 24s linear infinite 0s;
+    -ms-animation: titleAnimation 24s linear infinite 0s;
+    animation: titleAnimation 24s linear infinite 0s;
 }
 .cb-slideshow li div a {
 	/*z-index: 9999;*/
@@ -382,6 +382,15 @@
     animation-delay: 12s;
 }
 
+.cb-slideshow li:nth-child(4) span {
+    background-image: url(../assets/images/ss/4.jpg);
+    -webkit-animation-delay: 18s;
+    -moz-animation-delay: 18s;
+    -o-animation-delay: 18s;
+    -ms-animation-delay: 18s;
+    animation-delay: 18s;
+}
+
 .cb-slideshow li:nth-child(2) div {
     -webkit-animation-delay: 6s;
     -moz-animation-delay: 6s;
@@ -396,14 +405,14 @@
     -ms-animation-delay: 12s;
     animation-delay: 12s;
 }
-/*.cb-slideshow li:nth-child(4) div {
+.cb-slideshow li:nth-child(4) div {
     -webkit-animation-delay: 18s;
     -moz-animation-delay: 18s;
     -o-animation-delay: 18s;
     -ms-animation-delay: 18s;
     animation-delay: 18s;
 }
-.cb-slideshow li:nth-child(5) div {
+/*.cb-slideshow li:nth-child(5) div {
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
@@ -521,7 +530,7 @@
 @-webkit-keyframes titleAnimation {
 	0% {
 	    opacity: 0;
-	    -webkit-transform: translateX(200px);
+	    -webkit-transform: translateX(400px);
 	}
 	16% {
 	    opacity: 1;
@@ -530,7 +539,7 @@
 	}
 	34% {
 	    opacity: 1;
-	    -webkit-transform: translateX(0px);
+	    -webkit-transform: translateX(-200px);
 	}
 	35% {
 		z-index: -1;
@@ -545,7 +554,7 @@
 @-moz-keyframes titleAnimation {
 	0% {
 	    opacity: 0;
-	    -webkit-transform: translateX(200px);
+	    -webkit-transform: translateX(400px);
 	}
 	16% {
 	    opacity: 1;
@@ -554,7 +563,7 @@
 	}
 	34% {
 	    opacity: 1;
-	    -webkit-transform: translateX(0px);
+	    -webkit-transform: translateX(-200px);
 	}
 	35% {
 		z-index: -1;
@@ -569,7 +578,7 @@
 @-o-keyframes titleAnimation {
 	0% {
 	    opacity: 0;
-	    -webkit-transform: translateX(200px);
+	    -webkit-transform: translateX(400px);
 	}
 	16% {
 	    opacity: 1;
@@ -578,7 +587,7 @@
 	}
 	34% {
 	    opacity: 1;
-	    -webkit-transform: translateX(0px);
+	    -webkit-transform: translateX(-200px);
 	}
 	35% {
 		z-index: -1;
@@ -593,7 +602,7 @@
 @-ms-keyframes titleAnimation {
 	0% {
 	    opacity: 0;
-	    -webkit-transform: translateX(200px);
+	    -webkit-transform: translateX(400px);
 	}
 	16% {
 	    opacity: 1;
@@ -602,7 +611,7 @@
 	}
 	34% {
 	    opacity: 1;
-	    -webkit-transform: translateX(0px);
+	    -webkit-transform: translateX(-200px);
 	}
 	35% {
 		z-index: -1;
@@ -617,7 +626,7 @@
 @keyframes titleAnimation {
 	0% {
 	    opacity: 0;
-	    -webkit-transform: translateX(200px);
+	    -webkit-transform: translateX(400px);
 	}
 	16% {
 	    opacity: 1;
@@ -626,7 +635,7 @@
 	}
 	34% {
 	    opacity: 1;
-	    -webkit-transform: translateX(0px);
+	    -webkit-transform: translateX(-200px);
 	}
 	35% {
 		z-index: -1;

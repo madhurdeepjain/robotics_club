@@ -6,7 +6,7 @@ Hosted at: [Robotics Club, Student's Gymkhana](http://students.iitk.ac.in/robocl
 
 ### Development
 
-First off, you'll need Ruby. Get gem with your package manager. You should not be installing Jekyll directly, since that's likely to break things. Instead, install bundle with
+First off, you'll need to **install Ruby**. Get gem with your package manager. You should not be installing Jekyll directly, since that's likely to break things. Instead, install bundle with
 
 ```gem install bundle```
 
