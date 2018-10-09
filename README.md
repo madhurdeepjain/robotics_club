@@ -6,7 +6,7 @@ Hosted at: [Robotics Club, Student's Gymkhana](http://students.iitk.ac.in/robocl
 
 ### Development
 
-First off, you'll need to **install Ruby**. Get gem with your package manager. You should not be installing Jekyll directly, since that's likely to break things. Instead, install bundle with
+First off, you'll need to **[install Ruby](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04)**. Get gem with your package manager. You should not be installing Jekyll directly, since that's likely to break things. Instead, install bundle with
 
 ```gem install bundle```
 
