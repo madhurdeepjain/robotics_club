@@ -1,5 +1,5 @@
 ---
-title: Robotics Insight(Summers) | Events
+title: Robotics Insight (Winters) | Events
 layout: default
 style: robomonth
 ---
@@ -10,7 +10,7 @@ style: robomonth
     <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--1-offset-tablet mdl-cell--8-col mdl-cell--6-col-tablet mdl-cell--4-col-phone">
       <div class="robomonth-card mdl-card mdl-shadow--2dp">
         <div id="robomonth-tit" class="mdl-card__title" style="background:
-			url('../assets/images/ss/1.jpg') center / cover #46B6AC;">
+			url('../assets/images/ss/6.jpg') center / cover #46B6AC; object-fit: contain">
           <!-- <div id="overlay2"></div> -->
         </div>
         <div id="robomonth-content" class="mdl-card__supporting-text">
@@ -23,7 +23,7 @@ style: robomonth
 
             <div class="mdl-tabs__panel is-active" id="about-panel">
               <div class="cmt-card mdl-card">
-                {% for abt in site.data.riabt %}
+                {% for abt in site.data.riwabt %}
                 <div class="mdl-card__supporting-text">
                   {{abt.content}}
                 </div>
@@ -42,7 +42,7 @@ style: robomonth
                     </tr>
                   </thead>
                   <tbody>
-                    {% for sch in site.data.risch %}
+                    {% for sch in site.data.riwsch %}
                     <tr>
                       <td class="mdl-data-table__cell--non-numeric">{{sch.name}}</td>
                       <td class="mdl-data-table__cell--non-numeric">{{sch.when}}</td>
@@ -56,7 +56,7 @@ style: robomonth
 
             <div class="mdl-tabs__panel" id="lec-panel">
               <div class="cmt-card mdl-card">
-                {% for lec in site.data.rilec %}
+                {% for lec in site.data.riwlec %}
                 <div class="mdl-card__supporting-text">
                   {{lec.content}}
                 </div>
