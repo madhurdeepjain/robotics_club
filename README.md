@@ -17,6 +17,7 @@ bundle install --path vendor/bundle
 bundler exec jekyll server --port 8080 --host 0.0.0.0
 ```
 Here the --path flag is optional to keep your system's packages sane.
+
 Before committing execute this in the repo directory:
 ```
 bundle exec jekyll build
