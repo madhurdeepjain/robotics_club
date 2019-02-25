@@ -1,1 +1,17 @@
-- content: Will be uploaded.
+- name: Introductory Lecture
+  link: Intro.pdf
+
+- name: Sensors and Actuators
+  link: SnA.pdf
+
+- name: Inventor
+  link: Inventor.pdf
+
+- name: PID
+  link: PID.pdf
+
+- name: Dynamics
+  link: Dynamics.pdf
+
+- name: Image Processing
+  link: IP.pdf

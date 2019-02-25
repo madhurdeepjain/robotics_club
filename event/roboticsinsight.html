@@ -1,5 +1,5 @@
 ---
-title: Robotics Insight(Summers) | Events
+title: Robotics Insight II | Events
 layout: default
 style: robomonth
 ---
@@ -10,7 +10,7 @@ style: robomonth
     <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--1-offset-tablet mdl-cell--8-col mdl-cell--6-col-tablet mdl-cell--4-col-phone">
       <div class="robomonth-card mdl-card mdl-shadow--2dp">
         <div id="robomonth-tit" class="mdl-card__title" style="background:
-			url('../assets/images/ss/1.jpg') center / cover #46B6AC;">
+			url('../assets/images/event/roboticsinsight2.jpg') center / cover #46B6AC; object-fit: contain">
           <!-- <div id="overlay2"></div> -->
         </div>
         <div id="robomonth-content" class="mdl-card__supporting-text">
@@ -19,6 +19,7 @@ style: robomonth
                 <a href="#about-panel" class="mdl-tabs__tab is-active">About</a>
                 <a href="#schedule-panel" class="mdl-tabs__tab">Schedule</a>
                <a href="#lec-panel" class="mdl-tabs__tab">Lectures</a>
+               <a href="#assgn-panel" class="mdl-tabs__tab">Assignments</a>
             </div>
 
             <div class="mdl-tabs__panel is-active" id="about-panel">
@@ -55,13 +56,23 @@ style: robomonth
             </div>
 
             <div class="mdl-tabs__panel" id="lec-panel">
-              <div class="cmt-card mdl-card">
+              <div class="mdl-grid">
                 {% for lec in site.data.rilec %}
-                <div class="mdl-card__supporting-text">
-                  {{lec.content}}
-                </div>
+                    <a class="lec-btn mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone" target="_blank" href="../assets/docs/ri/{{ lec.link }}">
+                    {{lec.name}}
+                    </a>
                 {% endfor %}
+              </div>
             </div>
+
+            <div class="mdl-tabs__panel" id="assgn-panel">
+              <div class="mdl-grid">
+                {% for assgn in site.data.riassgn %}
+                    <a class="lec-btn mdl-button mdl-js-button mdl-js-ripple-effect mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone" target="_blank" href="../assets/docs/ri/{{ assgn.link }}">
+                    {{assgn.name}}
+                    </a>
+                {% endfor %}
+              </div>
             </div>
                       
             </div>
