@@ -1,170 +1,127 @@
-- name: Aamir Ahmad Makki
-  github: aamirmakki
-  facebook: aamir.makki
-  mob: 9559004404
-  add: D604/12
-  email: makki@iitk.ac.in
-  image: Aamir.jpg
+- name: Aditya Goyal
+  github: adityagl
+  facebook: aditya.goyal.50115161
+  mob: 8728070756
+  add: 
+  email: adityagl@iitk.ac.in
+  image: aditya.jpg
 
-- name: Abhay Varshney
-  github: abhayvar
-  facebook: abhay.varshney.90
-  mob: 9559015388
-  add: C215/5
-  email: abhayvar@iitk.ac.in
-  image: Abhay Varshney.jpg
+- name: Anmol Gupta
+  github: 
+  facebook: anmol-gupta-b0a15a184
+  mob: 8445142083
+  add: 
+  email: ganmol@iitk.ac.in
+  image: anmol.png
 
-- name: Abhishek Saini
-  facebook: profile.php?id=100005455605634
-  mob: 9198975762
-  add: B604/12
-  email: abisaini@iitk.ac.in
-  image: Abhishek Saini.PNG
+- name: Arunim Joarder
+  github: ArunimJoarder
+  facebook: rjoarder
+  mob: 8178466007
+  add: 
+  email: arunimj@iitk.ac.in 
+  image: arunim.jpg
 
-- name: Ayush Gupta
-  github: 7ayushgupta
-  facebook: 7ayushgupta
-  mob: 8887148656
-  add: A513/12
-  email: ayushgup@iitk.ac.in
-  image: Ayush Gupta.jpg
+- name: Ashwin Shenai
+  github: ashwin2802
+  facebook: ashwin.shenai
+  mob: 9325635325
+  add: 
+  email: ashwins@iitk.ac.in
+  image: ashwin.JPG
 
-- name: Faizan Siddiqui
-  github: techsid77
-  facebook: faizansid77
-  mob: 9198811277
-  add: D204/5
-  email: faizan@iitk.ac.in
-  image: Faizan Siddiqui.JPG
+- name: Ayush Sinha
+  github: adityagl
+  facebook: aditya.goyal.50115161
+  mob: 8447778408
+  add: 
+  email: 
+  image: ayush.jpg
 
-- name: Inshu Namdev
-  github: inshu1
-  facebook: InshuND
-  mob: 8400197619
-  add: A603/6
-  email: inshu@iitk.ac.in
-  image: inshu.jpg
+- name: Haren Bhandari
+  github: 
+  facebook: 
+  mob: 8097044029
+  add: 
+  email: 
+  image: haren.jpg
 
-- name: Madhur Deep Jain
-  github: madhurdeepjain
-  facebook: madhurdeepjain
-  mob: 8894051687
-  add: C107/5
-  email: mdjain@iitk.ac.in
-  image: Madhur Jain.jpg
+- name: Himanshu Rahangdale
+  github: 
+  facebook: 
+  mob: 9340607951
+  add: 
+  email:  
+  image: himanshu.jpg
 
-- name: Medha Agarwal
-  facebook: medha.agarwal.79
-  mob: 8273265140
-  add: A603/6
-  email: medhaaga@iitk.ac.in
-  image: Medha Agarwal.jpg
+- name: Kaanapuli Ramkumar
+  github: kaanapuliramkumar
+  facebook: kaanapuli.ramkumar
+  mob: 8778096606
+  add: 
+  email: ramkumar@iitk.ac.in
+  image: ramkumar.jpg
 
-- name: Naishadh Parmar
-  github: naishadhparmar
-  facebook: profile.php?id=100009547482859
-  mob: 8758197321
-  add: A507/12
-  email: naishadh@iitk.ac.in
-  image: Naishadh_Parmar.jpg
+- name: Luvneesh Kumar
+  github: 
+  facebook: 
+  mob: 8851071915
+  add: 
+  email: luvneesh@iitk.ac.in
+  image: luvneesh.jpg
 
-- name: Neil Shirude
-  github: neilrs123
-  facebook: neil.shirude
-  mob: 9850892135
-  add: C205/5
-  email: neilrs@iitk.ac.in
-  image: Neil_Shirude.jpg
+- name: Prakash Choudhary
+  github: 
+  facebook: 
+  mob: 6377993633
+  add: 
+  email: 
+  image: prakash.jpg
 
-- name: Nitik Jain
-  github: nitik1998
-  facebook: nitik.jain.1
-  mob: 9001370974
-  add: C-229/2
-  email: nitik@iitk.ac.in
-  image: Nitik Jain.jpg
+- name: Ramyata Pate
+  github: ramyata-pate
+  facebook: 
+  mob: 7397804500
+  add: 
+  email: ramyata@iitk.ac.in
+  image: ramyata.jpg
 
-- name: Prateek Yadav
-  facebook: prateek.yadav11
-  mob: 9450157126
-  add: C309/5
-  email: prateeky@iitk.ac.in
-  image: Prateek Yadav.jpg
+- name: Ruchina
+  github: 
+  facebook: 
+  mob: 9559118100
+  add: 
+  email: 
+  image: ruchina.jpg
 
-- name: Priank Prasad
-  github: priankp
-  facebook: priank.prasad
-  mob: 9198968025
-  add: A610/12
-  email: priankp@iitk.ac.in
-  image: Priank.jpg
+- name: Shivam Goel
+  github: 
+  facebook: shivam.goel.14203
+  mob: 9467671943
+  add: 
+  email: shivgoel@iitk.ac.in
+  image: shivam.jpg
 
-- name: Priyanshu Gupta
-  github: purug2000
-  facebook: priyanshu.gupta.42
-  mob: 7017716773
-  add: C338/2
-  email: guptap@iitk.ac.in
-  image: Priyanshu Gupta.jpg
+- name: Sidhant Chandak
+  github: 
+  facebook: 
+  mob: 7978546718
+  add: 
+  email: sidhant@iitk.ac.in
+  image: sidhant.jpg
 
-- name: Rakshit Paurwal
-  github: rakshitpaurwal
-  facebook: profile.php?id=100008274738126
-  mob: 8755544219
-  add: 228/3
-  email: rakshup@iitk.ac.in
-  image: Rakshit.jpg
+- name: Sourish Mondal
+  github: 
+  facebook: profile.php?id=100010484226653
+  mob: 7320971727
+  add: 
+  email: sourishm@iitk.ac.in
+  image: sourish.jpg
 
-- name: Ratnangshu Das
-  github: ratnangshu
-  facebook: ratnangshu.das
-  mob: 8400187321
-  add: E609/12
-  email: rdas@iitk.ac.in
-  image: Ratnangshu.jpg
-
-- name: Rishab Agarwal
-  github: rishabag1999
-  facebook: rishabag1999
-  mob: 9110887913
-  add: D108/5
-  email: rishabag@iitk.ac.in
-  image: Rishab Agarwal.jpg
-
-- name: Rishabh Sanjay
-  facebook: rishabh.sanjay
-  mob: 8825236258
-  add: B214/2
-  email: rsan@iitk.ac.in
-  image: Rishabh_Sanjay.jpg
-
-- name: Saksham Mittal
-  github: msaksham
-  facebook: profile.php?id=100009119519825
-  mob: 8218571770
-  add: C130/2
-  email: mittals@iitk.ac.in
-  image: Saksham Mittal.JPG
-
-- name: Shibalik Lahiri
-  facebook: shibalik.lahiri
-  mob: 9702260173
-  add: 230/3
-  email: shibalik@iitk.ac.in
-  image: Shibalik.jpg
-
-- name: Tanishq Patil
-  github: tanishqp1
-  facebook: tanishqp1
-  mob: 8440894603
-  add: D211/5
-  email: tanishq@iitk.ac.in
-  image: Tanishq Patil.jpg
-
-- name: Vaibhav Jindal
-  github: vaibhavjindal
-  facebook: vaibhav.jindal.184
-  mob: 8950641310
-  add: C130/2
-  email: vaibhavj@iitk.ac.in
-  image: Vaibhav.jpg
+- name: Yatish Sharma
+  github: 
+  facebook: Shrma.Yatish
+  mob: 9779884607
+  add: 
+  email: yatish@iitk.ac.in
+  image: yatish.jpg

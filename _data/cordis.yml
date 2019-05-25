@@ -1,31 +1,23 @@
-- name: Ayush Singh
-  github: ayushsj
-  facebook: profile.php?id=100004637739173
-  mob: 7318017610
-  add: I-305/Hall-5
-  email: ayushsj
-  image: ayushsj.jpg
+- name: Abhay Varshney
+  github: abhayvar
+  facebook: abhay.varshney.90
+  mob: 9559015388
+  add: H-205/Hall-5
+  email: abhayvar
+  image: abhay.jpg
 
-- name: Maneet Kaur
-  github: maneetka
-  facebook: maneet.kaur.3785
-  mob: 9456041682
-  add: B201/GHT
-  email: maneetka
-  image: maneet.jpg
+- name: Madhur Deep Jain
+  github: madhurdeepjain
+  facebook: madhurdeepjain
+  mob: 8894051687
+  add: B-108/Hall-5
+  email: mdjain
+  image: madhur.jpg
 
-- name: Manas Rawat
+- name: Neil Shirude
   github: 
-  facebook: manasrawat23
-  mob: 7275934699
-  add: 250/ Hall-3
-  email: manasrwt
-  image: manas.jpg
-
-- name: Suraj Mishra
-  github: suraj_mishra
-  facebook: profile.php?id=100004353677963
-  mob: 7275991974
-  add: A114/ Hall-5
-  email: msuraj
-  image: suraj.jpg
+  facebook: neil.shirude
+  mob: 9850892135
+  add: H-208/Hall-5
+  email: neilrs
+  image: neil.jpg
